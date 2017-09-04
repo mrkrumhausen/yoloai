@@ -1,0 +1,23 @@
+{
+  "name": "yoloai",
+  "version": "0.0.1",
+  "description": "Happy chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkrumhausen/yoloai.git"
+  },
+  "keywords": [
+    "chatbot",
+    "yolo"
+  ],
+  "author": "Sebastian Krumhausen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkrumhausen/yoloai/issues"
+  },
+  "homepage": "https://github.com/mrkrumhausen/yoloai#readme"
+}
